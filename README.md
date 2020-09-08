@@ -22,10 +22,13 @@ Apart from coding, I also maintain a blog - you can find my articles and photos 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TangoEnSkai&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
+<!-- 
+
 <a href="https://github.com/TangoEnSkai/uber-go-style-guide-kr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TangoEnSkai&repo=uber-go-style-guide-kr&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
- 
+
+-->
 
 <!-- links to social media icons -->
 
