@@ -15,6 +15,10 @@ Apart from coding, I also maintain a blog - you can find my articles and photos 
 
 ## &#x1f4c8; GitHub Stats
 
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TangoEnSkai&show_icons=true" alt="TangoEnSkai's GitHub Stats"/></p>
+
+<!-- 
+
 <a href="https://github.com/TangoEnSkai/TangoEnSkai">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TangoEnSkai&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
@@ -22,8 +26,6 @@ Apart from coding, I also maintain a blog - you can find my articles and photos 
 <a href="https://github.com/TangoEnSkai/TangoEnSkai">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TangoEnSkai&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mark's GitHub Stats" />
 </a>
-
-<!-- 
 
 <a href="https://github.com/TangoEnSkai/uber-go-style-guide-kr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TangoEnSkai&repo=uber-go-style-guide-kr&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
