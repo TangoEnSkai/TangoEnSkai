@@ -8,14 +8,22 @@ Apart from coding, I also maintain a blog - you can find my articles and photos 
 
 ## 🔧 Technologies & Tools
 
+- Go, gRPC/Protobuf, Microservices
+- Google Cloud Platform (Computer Engine, Kubernetes Engine, Spanner, Cloud SQL, Stackdriver, Logging, Dataflow, etc.)
+- Terraform
+- CircleCI, Spinnaker
+- Datadog, NewRelic, Pagerduty, Blameless
+- Github, Slack, Jira, Confluence
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TangoEnSkai" alt="TangoEnSkai's profile visit count." /> </p>
+
+<!-- 
+
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TangoEnSkai" alt="TangoEnSkai's profile visit count." /> </p>
-
-<!-- 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="37" height="37"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="ts" width="37" height="37"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/haskell/haskell-original.svg" alt="hs" width="37" height="37"/> 
