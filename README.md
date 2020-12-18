@@ -39,8 +39,8 @@ Apart from coding, I also maintain a blog - you can find my articles and photos 
 
 ## &#x1f4c8; GitHub Stats
 
-![TangoEnSkai's github stats](https://github-readme-stats.vercel.app/api?username=TangoEnSkai&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TangoEnSkai&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![github stats](https://github-readme-stats.vercel.app/api?username=TangoEnSkai&show_icons=true&theme=radical)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TangoEnSkai&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 
 
