@@ -1,10 +1,10 @@
-# Hello, There!
+# Summary
 
-My name is Mark Hahn and I'm a software engineer. I am living in Tokyo, japan and currently working at Mercari, Inc., the first unicorn in Japan. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+Software Engineer specialised in Microservices with Golang base in Tokyo, currently working at Mercari, Inc., the first unicorn in Japan. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
-## &#x270d; Blog & Writing
+## &#x270d; CV
 
-Apart from coding, I also maintain a blog - you can find my articles and photos on my website at [tangoenskai.github.io](https://tangoenskai.github.io/).
+Please see: [tangoenskai.github.io](https://tangoenskai.github.io/).
 
 ## 🔧 Technologies & Tools
 
