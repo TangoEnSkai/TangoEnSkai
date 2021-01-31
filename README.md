@@ -1,6 +1,6 @@
 # Summary
 
-Software Engineer specialised in Microservices with Golang base in Tokyo, currently working at Mercari, Inc., the first unicorn in Japan.
+Software Engineer specialised in Microservices with Golang, currently working at Mercari, Inc., the first unicorn in Tokyo, Japan.
 
 ## CV
 
