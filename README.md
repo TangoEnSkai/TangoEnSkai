@@ -2,7 +2,7 @@
 
 Solutions Engineer at [Circle Internet Services, Inc.](https://circleci.com/about/), as known as CircleCI.
 
-Previously worked as Senior Software Engineer specialised in Microservices with Golang, currently working at [Mercari, Inc.](https://about.mercari.com/en/), the first unicorn in Tokyo, Japan.
+Previously worked as Senior Software Engineer specialised in Microservices with Golang  at [Mercari, Inc.](https://about.mercari.com/en/), the first unicorn in Tokyo, Japan.
 
 ## CV
 
