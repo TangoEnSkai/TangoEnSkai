@@ -3,7 +3,7 @@
 Engineering Manager at [THECOO, Inc.](https://thecoo.co.jp/)
 
 Previously
-- Solutions Engineer at [CircleCI](https://circleci.com/)
+- Solutions Engineer at [CircleCI](https://circleci.com/), one of the best CI/CD companies/solutions.
 - Senior Software Engineer (Backend, Microservices) at [Mercari, Inc.](https://about.mercari.com/en/), the first unicorn in Japan.
 
 ## CV
