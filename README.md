@@ -1,6 +1,6 @@
 # Summary
 
-Engineering Manager at [THECOO, Inc.](https://thecoo.co.jp/)
+Engineering Manager at [THECOO, Inc.](https://thecoo.co.jp/), crafting awesome fan community platform.
 
 Previously
 - Solutions Engineer at [CircleCI](https://circleci.com/), one of the best CI/CD companies.
