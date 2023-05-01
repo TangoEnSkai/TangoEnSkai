@@ -1,6 +1,6 @@
 # Summary
 
-SWE, SE, Researcher, Trilingual and Thinker based in Tokyo.
+Engineering Manager at [THECOO, Inc.](https://thecoo.co.jp/)
 
 Previously
 - Solutions Engineer at [CircleCI](https://circleci.com/)
