@@ -1,4 +1,4 @@
-*"The world is not a desktop."* — Mark Weiser
+# *"The world is not a desktop."* — Mark Weiser
 
 Engineering leader. Currently advising startups on engineering org design,
 technical strategy, and the messy parts between code and people.
@@ -10,4 +10,4 @@ Writes mostly Go. Thinks a lot about systems — technical and human.
 
 ---
 
-**[Blog](https://tangoenskai.github.io)** · **Tokyo, Japan** · EN / JA / KO
+**[Website](https://tangoenskai.github.io)** · **Tokyo, Japan** · EN / JA / KO
