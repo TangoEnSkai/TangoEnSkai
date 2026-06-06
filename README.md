@@ -1,1 +1,15 @@
-The world is not a desktop. - Mark Weiser
+# Mark Hahn
+
+Engineering leader. Currently advising startups on engineering org design,
+technical strategy, and the messy parts between code and people.
+
+Previously built things at **Mercari** (microservices, 8M+ DAU),
+**CircleCI** (CI/CD), and led engineering at **THECOO** (CTO).
+
+Writes mostly Go. Thinks a lot about systems — technical and human.
+
+---
+
+**[Blog](https://tangoenskai.github.io)** · **Tokyo, Japan** · EN / JA / KO
+
+*"The world is not a desktop."* — Mark Weiser
